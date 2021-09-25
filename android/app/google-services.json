@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876328702407",
+    "project_id": "teispace-chat",
+    "storage_bucket": "teispace-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876328702407:android:3c2201bbaa2b01be0c49e2",
+        "android_client_info": {
+          "package_name": "com.teispace.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876328702407-liajsphqkk4o4ogpagg6e91hoaegdst4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXBnwhCScUnbozTBoelOtD24DIYgU86Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876328702407-liajsphqkk4o4ogpagg6e91hoaegdst4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
